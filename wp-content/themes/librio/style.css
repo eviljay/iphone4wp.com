@@ -66,7 +66,7 @@ blockquote {
 	width: 900px; 
 	float: left; 
 	overflow: hidden; 
-	background: #d6ded4 url(images/sidebar-bg.png) repeat-y top left; 
+	background: #d6ded4 url(../../../wp-content/themes/librio/images/sidebar-bg.png) repeat-y top left; 
 }
 
 /* Header */
@@ -74,7 +74,7 @@ blockquote {
 	width: 900px; 
 	height: 53px; 
 	float: left; 
-	background: #333 url(images/header-bg-black.gif) no-repeat center; 
+	background: #333 url(../../../wp-content/themes/librio/images/header-bg-black.gif) no-repeat center; 
 	position: relative;
 }
 #header h2 { 
@@ -109,7 +109,7 @@ blockquote {
 	font: normal 11px Verdana, Sans-Serif;
 	color: #777;
 	border: 0;
-	background: #fafafa url(images/search-bg.png) no-repeat;
+	background: #fafafa url(../../../wp-content/themes/librio/images/search-bg.png) no-repeat;
 }
 
 /* Navigation */
@@ -117,7 +117,7 @@ blockquote {
 	width: 900px;
 	float: left; 
 	height: 32px; 
-	background: #fafafa url(images/nav-bg.gif) repeat-x; 
+	background: #fafafa url(../../../wp-content/themes/librio/images/nav-bg.gif) repeat-x; 
 	position: relative; 
 }
 #nav ul { 
@@ -147,7 +147,7 @@ blockquote {
 	padding: 0 0 0 20px;
 	display: block; 
 	text-shadow: 1px 1px 1px #fff; 
-	background: url(images/feed.gif) no-repeat 0 3px; 
+	background: url(../../../wp-content/themes/librio/images/feed.gif) no-repeat 0 3px; 
 }
 
 #nav .tweet {  
@@ -160,7 +160,7 @@ blockquote {
 	padding: 0 0 0 20px;
 	display: block; 
 	text-shadow: 1px 1px 1px #fff; 
-	background: url(images/t_mini-a.png) no-repeat 0 2px; 
+	background: url(../../../wp-content/themes/librio/images/t_mini-a.png) no-repeat 0 2px; 
 }
 
 #nav .facebook{  
@@ -173,7 +173,7 @@ blockquote {
 	padding: 0 0 0 20px;
 	display: block; 
 	text-shadow: 1px 1px 1px #fff; 
-	background: url(images/6heqk7po.gif) no-repeat 0 2px; 
+	background: url(../../../wp-content/themes/librio/images/6heqk7po.gif) no-repeat 0 2px; 
 }
 
 #nav .plusone-div{  
@@ -297,7 +297,7 @@ blockquote {
 
 #sidebar .block ul li { 
 	padding-left: 15px; 
-	background: url(images/arrow.gif) no-repeat 0px 3px; 
+	background: url(../../../wp-content/themes/librio/images/arrow.gif) no-repeat 0px 3px; 
 }
 
 /* Footer */
@@ -307,7 +307,7 @@ blockquote {
 	float: left;
 	clear: both;  
 	position: relative;
-	background: #333 url(images/footer-bg-black.gif) no-repeat; 
+	background: #333 url(../../../wp-content/themes/librio/images/footer-bg-black.gif) no-repeat; 
 }
 #footer a#theme-author { 
 	position: absolute; 
@@ -342,7 +342,8 @@ blockquote {
 .navigation-pages li { line-height:0%; display:inline; padding:0; margin:0; font-size:12px; zoom:1; }
 .navigation-pages a, .navigation-pages a:visited, .navigation-pages a:hover, .navigation-pages span.current,
 .navigation-pages span.pages, .navigation-pages span.extend, .navigation-pages span.current, .navigation-pages span.dots
- { color:#fff; width:31px; padding:0; margin:0 4px 0 0; display:block; float:left; text-decoration: none; text-align:center; line-height:31px; background:url(images/page-num-back.png) no-repeat left top; }
-.navigation-pages a:hover { color:#fff; background:url(images/page-num-back-hover.png) no-repeat left bottom; text-decoration:none; }
-.navigation-pages span.current { background:url(images/page-num-back-hover.png) no-repeat left top; color:#fff; }
-.navigation-pages span.current { background:url(images/page-num-back-hover.png) no-repeat left top; color:#fff; }
+ { color:#fff; width:31px; padding:0; margin:0 4px 0 0; display:block; float:left; text-decoration: none; text-align:center; line-height:31px; background:url(../../../wp-content/themes/librio/images/page-num-back.png) no-repeat left top; }
+.navigation-pages a:hover { color:#fff; background:url(../../../wp-content/themes/librio/images/page-num-back-hover.png) no-repeat left bottom; text-decoration:none; }
+.navigation-pages span.current { background:url(../../../wp-content/themes/librio/images/page-num-back-hover.png) no-repeat left top; color:#fff; }
+.navigation-pages span.current { background:url(../../../wp-content/themes/librio/images/page-num-back-hover.png) no-repeat left top; color:#fff; }
+
